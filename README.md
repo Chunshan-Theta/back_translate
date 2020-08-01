@@ -52,7 +52,15 @@ This makes it easier to see when each paragraph ends or starts.
 
 ====
 中文擴增方式 build on google translate
-```
-zh_en_example/zh.py
-```
+
+- by google translate multi-language
+    ```
+    zh_en_example/zh.py
+    ```
+
+- translate and follow back_translate en <--> fr
+    ```
+    sh back_translate_zh/run.sh
+    ```
+
 
